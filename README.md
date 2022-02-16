@@ -1,1 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# NextJS Training
+Just a little training repository for now
+Deployed at https://jk-next-js-training.vercel.app/
